@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb77152760b1c64",
+        "id": "8c66397dde8a3f1a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec141e05e5a980b6",
+            "id": "40b1576aef20e6c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Mi camino eterno.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -20,
+                  "zoom": -0.3044260370307238
+                }
+              }
             }
           }
         ]
@@ -65,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be9c828f43540364",
@@ -81,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paginas Eliminadas/SSL - Ejercicios.md",
+                "file": "Mi camino eterno.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paginas Eliminadas/SSL - Ejercicios.md",
+                "file": "Mi camino eterno.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paginas Eliminadas/SSL - Ejercicios.md"
+                "file": "Mi camino eterno.canvas"
               }
             }
           }
@@ -139,11 +147,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "9ffa4e70e4390314",
+  "active": "40b1576aef20e6c0",
   "lastOpenFiles": [
+    "Mi camino eterno.canvas",
+    "README.md",
+    "Map014.json",
+    "TreasureOfNadiaCheatV10113.rar",
+    "Ciclo Eterno Olvido/AdS Documento.md",
+    "Ciclo Eterno Olvido/SO Documento.md",
+    "Ciclo Eterno Olvido/Algo escrito por ahí.md",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623122855.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623122643.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623121831.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623121714.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623121702.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623121557.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623121355.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623121212.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623121120.png",
+    "Ciclo Eterno Olvido/new_attachments/Pasted image 20230623115619.png",
+    "Ciclo Eterno Olvido/new_attachments",
+    "Ciclo Eterno Olvido/AM II Documento.md",
+    "Ciclo Eterno Olvido/PdeP Documento.md",
+    "Ciclo Eterno Olvido/Física II Documento.md",
+    "Paginas Eliminadas/Paradigmas - Clases.md",
+    "Paginas Eliminadas/Paradigmas - Diccionario.md",
+    "Ciclo Eterno Olvido",
+    "Documento.md",
+    "Paginas Eliminadas/SSL - BNF.md",
     "Paginas Eliminadas/C - FLB.md",
     "Paginas Eliminadas/2 - Cosas Random.md",
     "Paginas Eliminadas/AdS - Etapa de reconocimiento.md",
@@ -153,33 +188,17 @@
     "Paginas Eliminadas/Física - Fórmulas.md",
     "Paginas Eliminadas/SSL - Ejercicios.md",
     "Paginas Eliminadas/1 - Organizador.md",
-    "Mi camino eterno.canvas",
     "Paginas Eliminadas/SO - Hilos.md",
     "Paginas Eliminadas/SSL - IMPORTANTE_PREPROCESADOR.md",
     "Paginas Eliminadas/C - Variado.md",
     "Paginas Eliminadas/SSL - Makefile.md",
     "Paginas Eliminadas/SSL - Clases.md",
-    "Paginas Eliminadas/Paradigmas - Diccionario.md",
-    "Paginas Eliminadas/C - Serialización y otras cosas.md",
-    "Ciclo eterno del desorden/Biblioteca_Obsidian/Orden/Fisica.md",
-    "Paginas Eliminadas/new_attachments/Pasted image 20230426130843.png",
-    "Paginas Eliminadas/new_attachments/Pasted image 20230426125909.png",
-    "Paginas Eliminadas/SO - Sincronización.md",
-    "Paginas Eliminadas/SO - Recursos.md",
-    "Ciclo eterno del desorden/Biblioteca_Obsidian/Buffer.md",
-    "Paginas Eliminadas/Paradigmas - Practicas.md",
-    "Paginas Eliminadas/SR - Pautas.md",
-    "Paginas Eliminadas/SSL - HOJA.md",
-    "Paginas Eliminadas/Paradigmas - Clases.md",
-    "Paginas Eliminadas/new_attachments/Pasted image 20230616141856.png",
-    "Paginas Eliminadas/SO - Memoria Virtual.md",
     "Ciclo eterno del desorden/Biblioteca_Obsidian/Ya organizados",
     "Ciclo eterno del desorden/Biblioteca_Obsidian/Orden",
     "Ciclo eterno del desorden/Biblioteca_Obsidian/Diccionarios de Asignaturas",
     "Ciclo eterno del desorden/Biblioteca_Obsidian",
     "Paginas Eliminadas/new_attachments",
     "Untitled.canvas",
-    "Paginas Eliminadas",
-    "Ciclo eterno del desorden"
+    "Paginas Eliminadas"
   ]
 }

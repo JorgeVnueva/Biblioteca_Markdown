@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./new_attachments"
+  "attachmentFolderPath": "./new_attachments",
+  "showFrontmatter": true
 }
