@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c66397dde8a3f1a",
+        "id": "af8d3aebf256a562",
         "type": "tabs",
         "children": [
           {
-            "id": "40b1576aef20e6c0",
+            "id": "68fcd3ea467e6519",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -151,7 +151,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "40b1576aef20e6c0",
+  "active": "68fcd3ea467e6519",
   "lastOpenFiles": [
     "Mi camino eterno.canvas",
     "README.md",
